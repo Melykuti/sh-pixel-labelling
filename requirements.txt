@@ -1,0 +1,11 @@
+ipython>=7.10.1
+jupyter>=1.0.0
+jupyter-client>=5.3.4
+jupyter-console>=6.0.0
+jupyter-core>=4.6.1
+notebook>=6.0.2
+matplotlib>=3.0.3
+numpy>=1.16.4
+pandas>=0.25.3
+Pillow>=5.4.1
+sentinelhub>=2.6.1
